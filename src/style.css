@@ -221,12 +221,12 @@ body {
 }
 
 .swiper-button__prev {
-  left: 25%;
+  left: 5%;
   background-image: url(../img/button_left.svg);
 }
 
 .swiper-button__next {
-  right: 25%;
+  right: 5%;
   background-image: url(../img/button_right.svg);
 }
 
