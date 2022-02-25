@@ -29,6 +29,10 @@
   font-family: 'Open Sans';
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Open Sans';
   outline: none;
